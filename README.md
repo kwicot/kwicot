@@ -61,7 +61,7 @@ GitHub: https://github.com/kwicot
 - Unity (2D/3D/VR/WebGL/мобільні/ПК), C#, DoTween, Addressables  
 - Оптимізація продуктивності, профілювання  
 - VR: Oculus VR, OpenVR  
-- Архітектура: ООП, SOLID, патерни проектування  
+- Архітектура: ООП, SOLID, патерни проектування DRY, KISS, YAGNI
 - Побудова клієнт-серверної логіки  
 - REST API, JSON  
 - Сервери: RiptideNetworking, PUN2, Firebase, AWS  
@@ -69,6 +69,7 @@ GitHub: https://github.com/kwicot
 - .NET Core, ASP.NET (базово), WPF  
 - Git, GitHub  
 - Командна робота, комунікабельність, системне мислення
+- Docker, Postman
 
 ---
 
